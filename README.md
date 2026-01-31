@@ -2,7 +2,7 @@
 
 ## 📅 January 2026
 
-- **12-Jan-2026 (Mon):** Prerequisite Installation Guide for Git Bash, a Text Editor (Notepad++), Java, and GitHub setup
+- **12-Jan-2026 (Mon):** Prerequisite Installation Guide for Git Bash, Java, and GitHub setup
 - **13-Jan-2026 (Tue):** Completed Programming Elements Practices
 
 - **15-Jan-2026 (Thu):** Completed Control Flow Practices
