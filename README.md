@@ -1,13 +1,19 @@
-# BridgeLabz Java Training - Rajveer Singh
+# 📘 Daily Project Logs – BridgeLabz Training
 
-This repository follows the trainer-recommended structure for Java training.
+## 📅 January 2026
 
-## Branch Structure
+- **12-Jan-2026 (Mon):** Prerequisite Installation Guide for Git Bash, a Text Editor (Notepad++), Java, and GitHub setup
+- **13-Jan-2026 (Tue):** Completed Programming Elements Practices
 
-- main     → Documentation only
-- develop  → Base demo Java project
-- feature/* → Topic-wise assignments
+- **15-Jan-2026 (Thu):** Completed Control Flow Practices
+- **16-Jan-2026 (Fri):** Completed Arrays Practices (Level 1 & 2)
+- **19-Jan-2026 (Mon):** Completed Java Methods Practices
 
-## Workflow
+- **20-Jan-2026 (Tue):** Completed Java String Practices and EXTRAS – Java String Practice Problems
 
-All assignments are added using feature branches and merged into develop.
+- **22-Jan-2026 (Thu):** Completed EXTRAS – Java String Handling and solved EXTRAS – Built-In Function Practice Problems
+- **23-Jan-2026 (Fri):** Studied Object-Oriented Programming Fundamentals and completed Java Class & Object assignment
+
+- **27-Jan-2026 (Mon):** Reconstructed the Git repository by reorganizing folder structure, cleaning unused files, and fixing commit inconsistencies
+- **28-Jan-2026 (Tue):** Installed and configured IntelliJ IDEA; imported pending repositories and verified execution of all Java programs including Java Constructors, Instance vs. Class Variables, Access Modifiers Level 1 Lab Practice
+- **29-Jan-2025 (Thu):** Solved Java Keywords Problem and learned about this, static, final keyword and concepts of instanceof operator
