@@ -20,3 +20,7 @@
 - **30-Jan-2025 (Fri):** Learned about different types of UML diagrams along with understanding relationships like association, aggregation, and composition, and solved related assignment questions
 
 - **31-Jan-2025 (Sat):** Learned about the different types of inheritance and completed the inheritance assignment
+
+- **02-Feb-2026 (Mon):** learned encapsulation and inheritance in depth and practiced class extension and implementing interfaces by solving the assignment questions.
+
+- **03-Feb-2026 (Tue):** Learned and revised about the different types of Linked List like single, double and circular linked list and started solving the assignment. Revised OOPs and completed my 2nd review today.
