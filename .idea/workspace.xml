@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bfdd073-36d5-4cf8-9884-957e7f30a30e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/designpattern/AbstractFactoryDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designpattern/AdapterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designpattern/BridgeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designpattern/BuilderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designpattern/ChainDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designpattern/CommandDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designpattern/CompositeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designpattern/DecoratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designpattern/FacadeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designpattern/FactoryMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designpattern/FlyweightDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designpattern/InterpreterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designpattern/IteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designpattern/PrototypeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designpattern/ProxyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designpattern/SingletonDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PrajwalThorat9007&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PrajwalThorat9007/BridgeLabz_Java.git&quot;,
+    &quot;accountId&quot;: &quot;9df9d02f-c9cb-4a80-839e-d97e3eee1848&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="393qHEoMMwm1swwxYSKMgel3zTa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CompositionCompanyDepartmentDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CustomAnnotationExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmployeeTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmployeeTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PredefinedAnnotations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProducerConsumerMain.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ReadCSVToStringArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SchoolHierarchical.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadedCounterMain.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/designpatternandio&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/BridgeLabz_Java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.ReadCSVToStringArray">
+    <configuration name="CompositionCompanyDepartmentDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompositionCompanyDepartmentDemo" />
+      <module name="objectmodeling" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="encapsulationandpolymorphism.EmployeeTest" />
+      <module name="accessmodifier" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="encapsulationandpolymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="encapsulationandpolymorphism.EmployeeTest" />
+      <module name="BridgeLabz_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="encapsulationandpolymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadCSVToStringArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="annotation.ReadCSVToStringArray" />
+      <module name="BridgeLabz_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="annotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReadCSVToStringArray" />
+        <item itemvalue="Application.EmployeeTest" />
+        <item itemvalue="Application.CompositionCompanyDepartmentDemo" />
+        <item itemvalue="Application.EmployeeTest (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bfdd073-36d5-4cf8-9884-957e7f30a30e" name="Changes" comment="" />
+      <created>1769935016369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769935016369</updated>
+      <workItem from="1769935020576" duration="35000" />
+      <workItem from="1769935170903" duration="222000" />
+      <workItem from="1769935658889" duration="129000" />
+      <workItem from="1770009102815" duration="12000" />
+      <workItem from="1770023840337" duration="3346000" />
+      <workItem from="1770029320078" duration="2471000" />
+      <workItem from="1770108907283" duration="355000" />
+      <workItem from="1770109270346" duration="5000" />
+      <workItem from="1770109324653" duration="3928000" />
+      <workItem from="1770180119808" duration="16000" />
+      <workItem from="1770186886410" duration="769000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
